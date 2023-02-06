@@ -1,4 +1,4 @@
 ---
-title: Welcome to my personal space of hell
+title: Welcome to my blog
 ---
 
